@@ -1,0 +1,31 @@
+# Unity specific ignores
+Library/
+Logs/
+Temp/
+obj/
+Builds/
+UserSettings/
+WebGLBuild/
+.vs/
+*.csproj
+*.sln
+UpgradeLog.htm
+
+# TextMesh Pro specific
+Assets/TextMesh Pro/Examples & Extras/
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+
+# Backup and temporary files
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+*.swp
+
+# Windows
+Thumbs.db
+
+# Unity crash logs
+*.pidb
